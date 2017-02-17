@@ -1,0 +1,171 @@
+Key	Value
+CellProfiler_Version	2016-03-08T19:17:57 b91da8e
+ChannelType_DF_image	Grayscale
+ImageSet_Zip_Dictionary	JTJCL2NoNF9DUDAwMD48aWZmYXRlIFRoZUM9IjAiIFRoZVQ9IjAiWj0iMCIvPjwvPjwvbWFPPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PE9NRSB4bWxucz0iaHR0cDovL3d3dy5vcGVubWljcm9zY29weS5vcmcvU2NoZW1hcy9PTUUvMjAxNS0wMSI+PEltYWdlIElEPSJERl9pbWFnZSI+PFBpeGVscyBEaW1lbnNpb25PcmRlcj0iWFlDWlQiIElEPSJQaXhlbHM6REZfaW1hZ2UiIFNpemVUPSIxIiBTaXplWD0iMSIgU2l6ZVk9IjEiPjxUaWZmRGF0YSBGaXJzdEM9IjAiIEZpcnN0VD0iMCIgRmlyc3RaPSIwIiBJRkQ9IjAiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi9Wb2x1bWVzL01vcml0ekJlcnRob2xkSEQvQ2VsbERhdGEvZmVhdHVyZUV4dHJhY3Rpb25DZWxsUHJvZmlsZXIvZXh0cmFjdGVkX3RpZnNfbW9udGFnZXNfZXgzLy0lMkIvY2g0X0NQMDA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCIgc3RhbmRhbG9uZT0ibm8iPz48T01FIHhtbG5zPSJodHRwOi8vd3d3Lm9wZW5taWNyb3Njb3B5Lm9yZy9TY2hlbWFzL09NRS8yMDE1LTAxIj48SW1hZ2UgSUQ9IkRGX2ltYWdlIj48UGl4ZWxzIERpbWVuc2lvbk9yZGVyPSJYWUNaVCIgSUQ9IlBpeGVsczpERl9pbWFnZSIgU2l6ZVQ9IjEiIFNpemVYPSIxIiBTaXplWT0iMSI+PFRpZmZEYXRhIEZpcnN0Qz0iMCIgRmlyc3RUPSIwIiBGaXJzdFo9IjAiIElGRD0iMCIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6L1ZvbHVtZXMvTW9yaXR6QmVydGhvbGRIRC9DZWxsRGF0YS9mZWF0dXJlRXh0cmFjdGlvbkNlbGxQcm9maWxlci9leHRyYWN0ZWRfdGlmc19tb250YWdlc19leDMvLUI8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCIgc3RhbmRhbG9uZT0ibm8iPz48T01FIHhtbG5zPSJodHRwOi8vd3d3Lm9wZW5taWNyb3Njb3B5Lm9yZy9TY2hlbWFzL09NRS8yMDE1LTAxIj48SW1hZ2UgSUQ9IkRGX2ltYWdlIj48UGl4ZWxzIERpbWVuc2lvbk9yZGVyPSJYWUNaVCIgSUQ9IlBpeGVsczpERl9pbWFnZSIgU2l6ZVQ9IjEiIFNpemVYPSIxIiBTaXplWT0iMSI+PFRpZmZEYXRhIEZpcnN0Qz0iMCIgRmlyc3RUPSIwIiBGaXJzdFo9IjAiIElGRD0iMCIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6L1ZvbHVtZXMvTW9yaXR6QmVydGhvbGRIRC9DZWxsRGF0YS9mZWF0dXJlRXh0cmFjdGlvbkNlbGxQcm9maWxlci9leHRyYWN0ZWRfdGlmc19tb250YWdlc19leDMvLS0vY2g0X0NQMDB4bWxyc2lvbjEuMCJlbmNvRiJhbm5lbz9PTUVuc3A6L3d3Lm9waW9yZ1NjbS9PTUUyNTAxIj48SW1hZ2UgSUQ9ImltPjxQaXhlbHMgVCIgSURGX2ltYWdlIiBTaXplPSIxIiBTaXplWD0iMSJZPSIxIj48VGlmZkRhdGEgRmlyc3RDPSIwIiBGaXJzdFQ9IjAiIFo9IjAiRD0ibnQ9IjFVSUQgRmltZT0iZmlsZTp1ZXMvem9sZENlbGxlbHJvZXJ4dHJhY3R0aXNfZXgvY2hfUA==
+Metadata_Tags	"[""ImageNumber""]"
+Pipeline_Pipeline	"CellProfiler Pipeline: http://www.cellprofiler.org
+Version:3
+DateRevision:20160308191757
+GitHash:b91da8e
+ModuleCount:13
+HasImagePlaneDetails:False
+
+Images:[module_num:1|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\'To begin creating your project, use the Images module to compile a list of files and/or folders that you want to analyze. You can also specify a set of rules to include only the desired files in your selected folders.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    :
+    Filter images?:No filtering
+    Select the rule criteria:and (extension does isimage) (directory doesnot containregexp ""\x5B\\\\\\\\\\\\\\\\/\x5D\\\\\\\\."")
+
+Metadata:[module_num:2|svn_version:\'Unknown\'|variable_revision_number:4|show_window:False|notes:\x5B\'The Metadata module optionally allows you to extract information describing your images (i.e, metadata) which will be stored along with your measurements. This information can be contained in the file name and/or location, or in an external file.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Extract metadata?:No
+    Metadata data type:Text
+    Metadata types:{}
+    Extraction method count:1
+    Metadata extraction method:Extract from file/folder names
+    Metadata source:File name
+    Regular expression:^(?P<Plate>.*)_(?P<Well>\x5BA-P\x5D\x5B0-9\x5D{2})_s(?P<Site>\x5B0-9\x5D)_w(?P<ChannelNumber>\x5B0-9\x5D)
+    Regular expression:(?P<Date>\x5B0-9\x5D{4}_\x5B0-9\x5D{2}_\x5B0-9\x5D{2})$
+    Extract metadata from:All images
+    Select the filtering criteria:and (file does contain """")
+    Metadata file location:
+    Match file and image metadata:\x5B\x5D
+    Use case insensitive matching?:No
+
+NamesAndTypes:[module_num:3|svn_version:\'Unknown\'|variable_revision_number:6|show_window:False|notes:\x5B\'The NamesAndTypes module allows you to assign a meaningful name to each image by which other modules will refer to it.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Assign a name to:Images matching rules
+    Select the image type:Grayscale image
+    Name to assign these images:DNA
+    Match metadata:\x5B\x5D
+    Image set matching method:Order
+    Set intensity range from:Image metadata
+    Assignments count:1
+    Single images count:0
+    Maximum intensity:255.0
+    Select the rule criteria:and (file does contain ""ch4"")
+    Name to assign these images:DF_image
+    Name to assign these objects:Cell
+    Select the image type:Grayscale image
+    Set intensity range from:Image metadata
+    Retain outlines of loaded objects?:No
+    Name the outline image:LoadedOutlines
+    Maximum intensity:255.0
+
+Groups:[module_num:4|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\'The Groups module optionally allows you to split your list of images into image subsets (groups) which will be processed independently of each other. Examples of groupings include screening batches, microtiter plates, time-lapse movies, etc.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Do you want to group your images?:No
+    grouping metadata count:1
+    Metadata category:None
+
+DefineGrid:[module_num:5|svn_version:\'Unknown\'|variable_revision_number:1|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Name the grid:Grid
+    Number of rows:15
+    Number of columns:15
+    Location of the first spot:Top left
+    Order of the spots:Rows
+    Define a grid for which cycle?:Each cycle
+    Select the method to define the grid:Manual
+    Select the previously identified objects:BF
+    Select the method to define the grid manually:Coordinates
+    Select the image to display:None
+    Coordinates of the first cell:27,27
+    Row number of the first cell:1
+    Column number of the first cell:1
+    Coordinates of the second cell:82,82
+    Row number of the second cell:2
+    Column number of the second cell:2
+    Retain an image of the grid?:No
+    Name the output image:Grid
+    Select the image on which to display the grid:DF_image
+    Use a previous grid if gridding fails?:No
+
+IdentifyObjectsInGrid:[module_num:6|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the defined grid:Grid
+    Name the objects to be identified:SSC
+    Select object shapes and locations:Rectangle Forced Location
+    Specify the circle diameter automatically?:Automatic
+    Circle diameter:20
+    Select the guiding objects:None
+    Retain outlines of the identified objects?:Yes
+    Name the outline image:GridOutlines
+
+OverlayOutlines:[module_num:7|svn_version:\'Unknown\'|variable_revision_number:3|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Display outlines on a blank image?:No
+    Select image on which to display outlines:DF_image
+    Name the output image:DF_Overlay
+    Outline display mode:Color
+    Select method to determine brightness of outlines:Max of image
+    Width of outlines:1
+    Select outlines to display:GridOutlines
+    Select outline color:Red
+    Load outlines from an image or objects?:Image
+    Select objects to display:None
+
+MeasureGranularity:[module_num:8|svn_version:\'Unknown\'|variable_revision_number:3|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Image count:1
+    Object count:1
+    Select an image to measure:DF_image
+    Subsampling factor for granularity measurements:1
+    Subsampling factor for background reduction:0.25
+    Radius of structuring element:10
+    Range of the granular spectrum:5
+    Select objects to measure:SSC
+
+MeasureObjectIntensityDistribution:[module_num:9|svn_version:\'Unknown\'|variable_revision_number:5|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Hidden:1
+    Hidden:1
+    Hidden:1
+    Hidden:0
+    Calculate intensity Zernikes?:None
+    Maximum zernike moment:9
+    Select an image to measure:DF_image
+    Select objects to measure:SSC
+    Object to use as center?:These objects
+    Select objects to use as centers:None
+    Scale the bins?:Yes
+    Number of bins:4
+    Maximum radius:100
+
+MeasureTexture:[module_num:10|svn_version:\'Unknown\'|variable_revision_number:4|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Hidden:1
+    Hidden:1
+    Hidden:1
+    Select an image to measure:DF_image
+    Select objects to measure:SSC
+    Texture scale to measure:3
+    Angles to measure:Horizontal,Vertical,Diagonal,Anti-diagonal
+    Measure Gabor features?:Yes
+    Number of angles to compute for Gabor:4
+    Measure images or objects?:Both
+
+MeasureObjectIntensity:[module_num:11|svn_version:\'Unknown\'|variable_revision_number:3|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Hidden:1
+    Select an image to measure:DF_image
+    Select objects to measure:SSC
+
+MeasureObjectSizeShape:[module_num:12|svn_version:\'Unknown\'|variable_revision_number:1|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select objects to measure:SSC
+    Calculate the Zernike features?:Yes
+
+ExportToSpreadsheet:[module_num:13|svn_version:\'Unknown\'|variable_revision_number:11|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the column delimiter:Tab
+    Add image metadata columns to your object data file?:No
+    Limit output to a size that is allowed in Excel?:No
+    Select the measurements to export:No
+    Calculate the per-image mean values for object measurements?:No
+    Calculate the per-image median values for object measurements?:No
+    Calculate the per-image standard deviation values for object measurements?:No
+    Output file location:Default Output Folder sub-folder\x7C\\\\\\\\extracted_cellprofiler_features
+    Create a GenePattern GCT file?:No
+    Select source of sample row name:Metadata
+    Select the image to use as the identifier:None
+    Select the metadata to use as the identifier:None
+    Export all measurement types?:Yes
+    :
+    Representation of Nan/Inf:NaN
+    Add a prefix to file names?:No
+    Filename prefix:MyExpt_
+    Overwrite existing files without warning?:Yes
+    Data to export:Do not use
+    Combine these object measurements with those of the previous object?:No
+    File name:DATA.csv
+    Use the object name for the file name?:Yes
+"
+Run_Timestamp	2017-01-25T10:43:28.437930
